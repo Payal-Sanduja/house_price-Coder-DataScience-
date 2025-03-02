@@ -94,4 +94,6 @@ plt.ylabel("Feature")
 plt.show()
 
 
+
+
 print("In this project, we analyzed house price data based on area and number of bedrooms. We used Python and machine learning models like Decision Tree and K-Nearest Neighbors to predict house prices. Our model performance was evaluated using MAE, MSE, and R² score. We improved accuracy by handling missing values, applying feature scaling, and visualizing feature importance.")
